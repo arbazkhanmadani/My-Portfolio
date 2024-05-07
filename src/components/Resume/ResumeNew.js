@@ -32,7 +32,7 @@ function ResumeNew() {
           </Button>
         </Row>
 
-         <img type="application/pdf" src={pdf} style={{position:"relative",top:"10px",left:"0px", overflow:"hidden",overflowX:"scroll",width:"80vmin",height:"800px"}}/>
+         <img  src={pdf} style={{position:"relative",top:"10px",left:"0px", overflow:"hidden",overflowX:"scroll",width:"80vmin",height:"800px"}}/>
         
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
